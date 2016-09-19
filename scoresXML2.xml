@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_20" class="java.beans.XMLDecoder">
+ <object class="fr.isen.cir58.group6.minesweeper.model.Scores" id="Scores0">
+  <void property="beginnerScores">
+   <void index="0">
+    <long>24</long>
+   </void>
+   <void index="1">
+    <long>25</long>
+   </void>
+   <void index="2">
+    <long>33</long>
+   </void>
+  </void>
+ </object>
+</java>
